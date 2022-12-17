@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    background-color: beige;
+    color: #000000;
+    display: grid;
+    text-align: center;
+
+  }
+  
+  h1 {
+    color: #F9DC5C;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .about {
+    text-align: center;
+    grid-column: 1;
+    grid-row: 3 / 5;
+    border-color: aqua;
+
+  }
+
+  .contact {
+    text-align: center;
+    grid-column: 3;
+    grid-row: 3 / 5;
+    border-color: aqua;
+  }
+
+  .talent {
+    text-align: center;
+    grid-column: 2;
+    grid-row: 3 / 5;
+    border-color: aqua;
+    }
+
+  .intro {
+    grid-column: 2;
+    text-align: center;
+  }
+
+  .talent {
+    text-align: center;
+    grid-column: 2;
+    grid-row: 3 / 5;
+    border-color: aqua;
+    width: 400px;
+    height: 400px;
+
+  }
+
+  .talent2 {
+    text-align: center;
+    grid-column: 1;
+    grid-row: 3 / 5;
+    border-color: aqua;
+    width: 400px;
+    height: 400px;
+  }
+
+  .talent3 {
+    text-align: center;
+    grid-column: 3;
+    grid-row: 3 / 5;
+    border-color: aqua;
+    width: 400px;
+    height: 400px;
+
+  }
+
+  
+
+
